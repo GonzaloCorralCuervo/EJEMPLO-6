@@ -1,1 +1,2 @@
-print("Hola soy Nacho")
+print("Hola somos Gonzalo y Nacho")
+
